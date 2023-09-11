@@ -1,6 +1,6 @@
-0x01. Basic authentication
-Back-end
-Authentification
+* 0x01. Basic authentication
+* Back-end
+* Authentification
  By: Guillaume, CTO at Holberton School
  Weight: 1
  Project will start Aug 7, 2023 6:00 AM, must end by Aug 9, 2023 6:00 AM
@@ -13,18 +13,18 @@ In the industry, you should not implement your own Basic authentication system a
 
 
 
-Resources
+* Resources
 Read or watch:
 
-REST API Authentication Mechanisms
-Base64 in Python
-HTTP header Authorization
-Flask
-Base64 - concept
+* REST API Authentication Mechanisms
+* Base64 in Python
+* HTTP header Authorization
+* Flask
+* Base64 - concept
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+* General
 What authentication means
 What Base64 is
 How to encode a string in Base64
